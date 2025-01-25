@@ -22,9 +22,12 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ravi1280&icon=5&color=0)](https://visitcount.itsvg.in)
-
+<h1 align="center">
+    <img width="150" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" />
+</h1>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+!+👋" />
+    
 </h1>
 
 
